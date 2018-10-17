@@ -145,9 +145,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="FileReader.cpp" />
     <ClCompile Include="T4Script.cpp" />
   </ItemGroup>

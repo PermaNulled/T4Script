@@ -1,6 +1,5 @@
 // T4Script.cpp : Defines the entry point for the console application.
 //
-
 #include <CkGlobal.h>
 #include <iostream>
 #include <fstream>
